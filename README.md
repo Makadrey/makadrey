@@ -144,47 +144,7 @@ Shipping AI-powered products.
 
 ---
 
-## 🚀 Featured Projects
 
-<!-- Replace each project below with your real work. Aim for 3 to 5 strong ones.
-     Formula for each: PROBLEM → WHAT YOU BUILT → RESULT (with a number). -->
-
-### 1. 📈 [Customer Churn Predictor]
-**Problem:** [What business problem were you solving?]
-**Solution:** [What did you build? Models, data, approach.]
-**Result:** [Quantified impact, e.g. "Reached 91% recall, projected to save $X in retention costs."]
-
-`Python` `scikit-learn` `XGBoost` `SHAP` `Streamlit`
-
-<br/>
-
-### 2. 🤖 [RAG Chatbot for Company Documents]
-**Problem:** [...]
-**Solution:** [...]
-**Result:** [...]
-
-`Python` `LangChain` `OpenAI/Claude` `FAISS` `FastAPI` `Docker`
-
-🔗 [Live Demo](https://[DEMO-URL])
-
-<br/>
-
-### 3. 📊 [Sales Performance Dashboard]
-**Problem:** [...]
-**Solution:** [...]
-**Result:** [...]
-
-`SQL` `Power BI` `Python` `Pandas`
-
-
-<br/>
-
-### 4. 🧠 [Image Classifier / NLP Sentiment Model]
-**Problem:** [...]
-**Solution:** [...]
-**Result:** [...]
-
-`PyTorch` `Hugging Face` `Transformers`
 
 
 ---
